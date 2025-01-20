@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nome": "Caneta Bic preta",
+            "prece": 5.89
+        },
+        {
+            "id": 2,
+            "nome": "Notebook Dell",
+            "prece": 12.000
+        },
+        {
+            "id": 3,
+            "nome": "Sansumf s20+",
+            "prece": 5000.00
+        }
+    ]
+}
